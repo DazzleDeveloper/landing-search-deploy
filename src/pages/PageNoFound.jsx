@@ -4,7 +4,7 @@ import errorsvg from '../assets/404.svg'
 export function PageNoFound() {
 
   return (
-    <a  title='Go to home' href="https://dazzledeveloper.github.io/web-search-deploy/"><div className="mt-[55px] flex justify-center items-center">
+    <a  title='Go to home' href="https://dazzledeveloper.github.io/landing-search-deploy/"><div className="mt-[55px] flex justify-center items-center">
      
      <div>
      <h1 className={textcolornofound} >Hey hey little one, don't do that

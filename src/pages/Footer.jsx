@@ -3,8 +3,8 @@ import { FaLinkedin, FaInstagram, FaTwitter, FaGithub } from "react-icons/fa";
 export function Footer() {
   return (
     <div id="fin" className="flex justify-center items-center mt-10 mb-10 ">
-      <div className="flex justify-center items-center  border border-solid rounded-lg  px-[40px] ">
-        <div className="  gap-4  mt-10 mb-10 place-items-center flex-wrap flex items-center justify-evenly		   ">
+      <div className="flex justify-center items-center  border border-solid rounded-lg  max-w-xl">
+        <div className="  gap-4  mt-10 mb-10 place-items-center flex-wrap flex items-center justify-evenly		px-[1.2rem] md:px-[3.6rem]  ">
           <div
             className="flex  
     "
