@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #0D0E10;
+}
+/**{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.title {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 600;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  text-align: center;
+  font-size: 42px;
+
+}
+body{
+  background-color: #000000;
+}
+
+
+.subtitle{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: 400;
+}
+
+.alink{
+  font-weight: 700;
+  text-decoration: none;
+  color: aqua;
+}
+
+.cardmovie{
+  margin-top:5em;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  font-weight: 100;
+  font-size: 20px;
+ text-align: center;
+}
+
+.error{
+  margin-top: 10em;
+  
+}
+
+.img404{
+
+  display:flex;
+  flex-wrap: wrap;
+  height: 300px;
+ inset: 0;
+ margin: auto;
+  
+ 
+}
+
+.perror{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+text-align: center;
+margin-bottom: 5em;
+}*/
+

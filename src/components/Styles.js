@@ -1,0 +1,3 @@
+export const textcolor = 'bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 text-transparent bg-clip-text ... text-center text-6xl font-montserrat font-black mt-10 max-w-[360px]	transition ease-in-out delay-70 bg-blue-500 hover:-translate-y-1 hover:scale-90 hover:bg-indigo-500 duration-300 ... hover:drop-shadow-sm	 '
+
+export const textcolornofound = 'bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 text-transparent bg-clip-text ... text-center text-6xl font-montserrat font-black mt-10 max-w-2xl	transition ease-in-out delay-70 bg-blue-500 hover:-translate-y-1 hover:scale-90 hover:bg-indigo-500 duration-300 ...'
