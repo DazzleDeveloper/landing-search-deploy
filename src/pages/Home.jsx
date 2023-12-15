@@ -3,7 +3,7 @@ import { textcolor } from "../components/Styles";
 export function Home() {
   return (
     <>
-      <a href="https://dazzledeveloper.github.io/web-search-deploy/" title="Home">
+      <a href="https://dazzledeveloper.github.io/landing-search-deploy/" title="Home">
         {" "}
         <div className="flex items-center justify-center ">
           <h1 className={textcolor}><sup className="text-white flex justify-end   ">  <span className=" w-[40px] h-[20px] ml-1 border border-solid border-indigo-800 rounded-sm bg-[#1E293B] flex items-center justify-center ">
