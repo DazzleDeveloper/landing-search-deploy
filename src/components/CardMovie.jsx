@@ -25,7 +25,7 @@ export function CardMovie({ movie }) {
 
         <p className="text-white max-w-xs mt-2 text-xs font-montserrat">{movie.overview}</p>
         <button className="bg-indigo-600 hover:bg-indigo-800 rounded-sm w-28 h-8 text-white font-montserrat font-[500] text-xs flex justify-center items-center mt-5 hover:translate-x-2 duration-300" >
-          Ver película
+          Watch Movie
           <FaArrowRight className="ml-2 "/>
           
         </button>
